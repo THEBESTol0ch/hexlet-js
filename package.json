@@ -1,0 +1,20 @@
+{
+  "name": "github_repository",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THEBESTol0ch/hexlet-project.git"
+  },
+  "name": "Ivan Strelkov",
+  "email": "the_bestol0ch@mail.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THEBESTol0ch/hexlet-project/issues"
+  },
+  "homepage": "https://github.com/THEBESTol0ch/hexlet-project#readme"
+}
