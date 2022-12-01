@@ -1,3 +1,1 @@
-Edited by human in the cloud
-
-true
+Мой первый проект на Хекслете
