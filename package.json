@@ -1,5 +1,5 @@
 {
-  "name": "Ivan Strelkov",
+  "name": "hexlet-js",
   "type": "module",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/THEBESTol0ch/hexlet-project.git"
   },
+  "author": "Ivan Strelkov",
   "email": "the_bestol0ch@mail.ru",
   "license": "ISC",
   "bugs": {
@@ -19,5 +20,8 @@
   "homepage": "https://github.com/THEBESTol0ch/hexlet-project#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
   }
 }
